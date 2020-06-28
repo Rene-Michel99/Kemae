@@ -8,4 +8,7 @@ imagens -> https://www.flaticon.com/free-icon/next_3039371?term=next%20button&pa
            https://www.flaticon.com/free-icon/shuffle_3039447?term=random%20button&page=1&position=2
            https://www.flaticon.com/free-icon/music-note_483041?term=music%20icon&page=1&position=46
            
+           
+![alt text](https://github.com/Rene-Michel99/Player-de-musica/blob/master/V2.png)
+           
  
